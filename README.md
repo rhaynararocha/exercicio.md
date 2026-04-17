@@ -1,5 +1,4 @@
-# exercicio.md
-ExercicioS
+# exercicio
 
 Aqui está uma explicação bem direta, imaginando que carros seja uma lista de nomes ou objetos:
 find(): Serve para encontrar um único item. Ele busca na lista e te entrega o primeiro que for igual ao que você pediu. Se não achar nada, ele avisa (retorna vazio).
